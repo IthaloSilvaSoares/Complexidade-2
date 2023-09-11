@@ -1,0 +1,13 @@
+struct Data 
+//Função ler: complexidade 0(1)
+//Função imprimir: complexidade 0(1)
+
+int calcularIdade() 
+//Função ler: complexidade 0(1)
+
+struct Cliente 
+//Função ler: complexidade 0(1)
+//Função imprimir: complexidade 0(1)
+
+int main() 
+//Função do-while: complexidade 0(1)
