@@ -1,0 +1,9 @@
+//Função troca: complexidade O(1)
+//Função bubbleSort: complexidade O(n²)
+
+struct Conjunto 
+//Função ler: complexidade O(n)
+//Função imprimir: complexidade O(n)
+//Função união: complexidade O(n²)
+//Função intersecao: complexidade O(n*m)
+//Função iguais: complexidade O(n)
