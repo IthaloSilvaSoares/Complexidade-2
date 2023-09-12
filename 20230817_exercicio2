@@ -1,0 +1,14 @@
+struct Funcionario 
+//Função ler: complexidade O(1)
+//Função imprimir: complexidade O(1)
+
+
+struct Loja 
+//Função ler: complexidade O(n)
+//Função listarTodos: complexidade O(1)
+//Função mediaSalarial: complexidade O(1)
+//Função maiorSalario: complexidade O(1)
+
+
+int main() 
+//Função do-while: complexidade O(1)
