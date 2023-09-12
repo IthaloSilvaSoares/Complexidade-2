@@ -2,8 +2,7 @@ struct Data
 //Função ler: complexidade 0(1)
 //Função imprimir: complexidade 0(1)
 
-int calcularIdade() 
-//Função ler: complexidade 0(1)
+//Função calcularIdade: complexidade 0(1)
 
 struct Cliente 
 //Função ler: complexidade 0(1)
